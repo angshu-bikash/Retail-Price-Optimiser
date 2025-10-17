@@ -1,0 +1,47 @@
+{
+  "cat_cols": [
+    "product_category_name"
+  ],
+  "num_logs": [
+    "log_price",
+    "log_lag_price",
+    "log_comp_1",
+    "log_comp_2",
+    "log_comp_3",
+    "log_ps1",
+    "log_ps2",
+    "log_ps3",
+    "log_fp1",
+    "log_fp2",
+    "log_fp3",
+    "log_year_ex",
+    "log_month_ex",
+    "log_week_ex"
+  ],
+  "feature_defaults": {
+    "lag_price": 89.99,
+    "comp_1": 69.9953271,
+    "comp_2": 89.99,
+    "comp_3": 59.9,
+    "ps1": 4.2,
+    "ps2": 4.2,
+    "ps3": 4.0,
+    "fp1": 16.52909091,
+    "fp2": 16.65384615,
+    "fp3": 16.81416667,
+    "year_ex": 2017,
+    "month_ex": 1,
+    "week_ex": 1
+  },
+  "categories": [
+    "bed_bath_table",
+    "computers_accessories",
+    "consoles_games",
+    "cool_stuff",
+    "furniture_decor",
+    "garden_tools",
+    "health_beauty",
+    "perfumery",
+    "watches_gifts"
+  ]
+}
